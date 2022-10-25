@@ -20,4 +20,4 @@ www.edx.org
 
 Copyright (c) Zak Franklin 2022. All rights reserved.
 
-Licensed under the MIT license.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
