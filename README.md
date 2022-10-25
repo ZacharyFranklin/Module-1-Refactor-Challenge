@@ -2,7 +2,7 @@
 
 ## Description 
 
-This page was a test of using semantic html and also condensing code to be more succinct and easier to read. This involved a numbe of changes to both the html and css in the starter code and was the first task of the bootcamp. I learned about a number of different html tags that I didn't know about and grew a greater understanding of css. This is not a page I created but I refactored the code. Thank you for checking it out!
+This page was a test of using semantic html and also condensing code to be more succinct and easier to read. This involved a number of changes to both the html and css in the starter code and was the first task of the bootcamp. I learned about a number of different html tags that I didn't know about and grew a greater understanding of css. This is not a page I created but I refactored the code. Thank you for checking it out!
 
 ## Horiseon
 
